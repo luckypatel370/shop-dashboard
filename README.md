@@ -62,6 +62,32 @@ This model enabled us to effectively track relationships between **customer segm
 
 ---
 
+## 🖼️ Dashboard Screenshots
+
+Below are some key visuals from the **Costco Supply Chain Dashboard**.
+
+## 🖼️ Dashboard Screenshots
+
+### 1. Overall Dashboard View
+![Overall Dashboard View](./Screenshot%202024-10-16%20184956.png)
+
+### 2. Sales Trends and Categories Overview
+![Sales by Category](./salesByCategory.png)
+
+### 3. Profits by Category
+![Profit by Category](./profitbyCategory.png)
+
+### 4. Profits by Shipping Mode
+![Pie Chart - Shipping Mode](./pichart.png)
+
+### 5. Sales Distribution Map
+![Sales Map](./maps.png)
+
+
+
+The **Sum of Sales by Year and Month** line chart shows Costco's sales trends over time, allowing for analysis of seasonality and market fluctuations.
+
+---
 ## 6. Results 🎉
 
 By visualizing the data through our dashboard, we uncovered several important insights:
