@@ -71,22 +71,23 @@ The executive dashboard generated valuable insights into Costco's operations. So
 - Shipping by **express mode** increased customer satisfaction but came at a higher cost, affecting the overall profit margin for certain categories.
 - The **corporate customer segment** generated the highest revenue, while the **home office segment** had a higher average order value, showing strong spending potential.
   
-
 ---
 
 ## 🖼️ Dashboard Screenshots
 
 ### 1. Overall Dashboard View
-![Overall Dashboard View](./Screenshot%202024-10-16%20184956.png)
+<img src="./dashboard.png" alt="Alt text" width="600" height="300">
 
 ### 2. Sales Trends and Categories Overview
 ![Sales by Category](./salesByCategory.png)
+
 
 ### 3. Profits by Category
 ![Profit by Category](./profitbyCategory.png)
 
 ### 4. Profits by Shipping Mode
-![Pie Chart - Shipping Mode](./pichart.png)
+<img src="./pichart.png" alt="Alt text" width="500" height="">
+
 
 ### 5. Sales Distribution Map
 ![Sales Map](./maps.png)
